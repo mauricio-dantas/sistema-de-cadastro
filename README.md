@@ -3,9 +3,8 @@
 
 > Status do Projeto: Em desenvolvimento
   
-Para rodar esse projeto serão necessárias as bibliotecas:
+Para rodar esse projeto digite:
 
 ```
-import numpy as np
-import pandas as pd
+node app.js
 ```
